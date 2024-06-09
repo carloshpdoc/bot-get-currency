@@ -100,7 +100,7 @@ Contributions are what make the open-source community such an amazing place to l
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/carloshpdoc)](https://x.com/carloshpdoc)
 
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carloshpdoc/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carloshperc/)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@carloshperc.com)
 
