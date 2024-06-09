@@ -1,0 +1,5 @@
+BeautifulSoup4
+twilio
+requests
+yfinance
+pywhatkit
