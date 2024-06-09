@@ -86,8 +86,6 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 - [YFinance](https://pypi.org/project/yfinance/)
 - [pywhatkit](https://pypi.org/project/pywhatkit/)
-- [dotenv](https://pypi.org/project/python-dotenv/)
-- [Requests](https://pypi.org/project/requests/)
 
 ## Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
